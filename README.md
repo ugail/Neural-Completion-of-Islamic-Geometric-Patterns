@@ -65,7 +65,7 @@ The system compares **orbit-tied** decoding, which averages predictions within e
 
 ## Who is this for?
 
-- **Practitioners and learners of Islamic geometric design who want a computational companion for exploring completions of a partial construction, with every suggestion guaranteed to respect the exact rotational symmetry their craft demands, offered as an aid to traditional practice rather than a substitute for it.
+- **Practitioners and learners of Islamic geometric design who** want a computational companion for exploring completions of a partial construction, with every suggestion guaranteed to respect the exact rotational symmetry their craft demands, offered as an aid to traditional practice rather than a substitute for it.
 
 - **Researchers in geometric and constraint-aware deep learning** who want a worked example of output-level symmetry guarantees on discrete selections, with the guarantee, its independent verification, and its honest cost accounting in one place.
 
