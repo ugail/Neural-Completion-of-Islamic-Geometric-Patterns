@@ -1,10 +1,11 @@
+
 # Islamic Geometric Patterns through Symmetry-Structured Neural Completion
 
 *Islamic Geometric Patterns through Symmetry-Structured Neural Completion*, by H. Ugail.
 
 Islamic geometric patterns are governed by exact rotational symmetry and precise constructional rules, so a completion that merely looks plausible may still be structurally invalid if its symmetry is broken. Generic neural generators treat symmetry as a soft visual property and cannot certify it. **This is an open-source reference implementation of a symmetry-structured neural completion system that takes sparse control geometry, expands it into a candidate lattice organised into rotational orbits by an exact geometric partition, and predicts edge selections and bounded curve refinements that are exactly $N$-fold symmetric by construction.** Symmetry is enforced either by an orbit-tied architecture or by inference-time orbit projection, and the orbit-tied variant carries a construction guarantee of exact $C_N$ symmetry, anchor preservation, and bounded refinement for any input and any orbit-level selection policy. The guarantee is verified by a label-free rotation audit that is independent of the identifiers the system uses internally. The repository contains the trained model checkpoints and every precomputed table, so the complete evaluation reproduces without any training.
 
-
+<img width="3329" height="2250" alt="raw_topology_gallery_seed7" src="https://github.com/user-attachments/assets/5b6d1f21-8704-4c57-9d6e-e72ecd7019ad" />
 
 ## What does this show?
 
