@@ -76,7 +76,7 @@ The system compares **orbit-tied** decoding, which averages predictions within e
 
 If you use this implementation or the precomputed results, please cite the paper:
 
-> H. Ugail. *Islamic Geometric Patterns through Symmetry-Structured Neural Completion*. Under review.
+> H. Ugail, *Islamic Geometric Patterns through Symmetry-Structured Neural Completion*, 2026, Under review.
 
 
 ## License
