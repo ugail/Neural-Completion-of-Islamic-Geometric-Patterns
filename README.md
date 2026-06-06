@@ -7,7 +7,7 @@ Islamic geometric patterns are governed by exact rotational symmetry and precise
 
 The construction is guaranteed by the following proposition:
 
-For any input control geometry, any symmetry order $N$, and any selection policy applied to orbit-level scores, the orbit-tied completion satisfies four properties. The selected edge set is a union of complete rotational orbits and therefore exhibits zero selected-orbit violations. The refined geometry rendered on the canonical lattice is exactly $N$-fold rotationally symmetric. Every anchor vertex of the control geometry is preserved exactly. Every refinement displacement satisfies $\lvert\delta_i\rvert\le\alpha_{\max} L_i$.
+For any input control geometry, any symmetry order $N$, and any selection policy applied to orbit-level scores, the orbit-tied completion satisfies four properties. The selected edge set is a union of complete rotational orbits and therefore exhibits zero selected-orbit violations. The refined geometry rendered on the canonical lattice is exactly $N$-fold rotationally symmetric. Every anchor vertex of the control geometry is preserved exactly. Every refinement displacement satisfies $\lvert\delta_i\rvert\le\alpha_{\max} L_i$. Proof is in the paper.
 
 <img width="3329" height="2250" alt="raw_topology_gallery_seed7" src="https://github.com/user-attachments/assets/5b6d1f21-8704-4c57-9d6e-e72ecd7019ad" />
 
