@@ -1,0 +1,16 @@
+seed,model,orbit_violations,anchor_drift,alpha_bound_excess,num_samples
+7,orbit_tied,0.0,0.0,0.0,120
+7,projection_selection,0.0,0.0,0.0,120
+7,unstructured_free,624.0,0.0,0.0,120
+7,orbit_tied_aug,0.0,0.0,0.0,120
+7,orbit_tied_rotation_audit,0.0,0.0,0.0,120
+11,orbit_tied,0.0,0.0,0.0,120
+11,projection_selection,0.0,0.0,0.0,120
+11,unstructured_free,338.0,0.0,0.0,120
+11,orbit_tied_aug,0.0,0.0,0.0,120
+11,orbit_tied_rotation_audit,0.0,0.0,0.0,120
+19,orbit_tied,0.0,0.0,0.0,120
+19,projection_selection,0.0,0.0,0.0,120
+19,unstructured_free,240.0,0.0,0.0,120
+19,orbit_tied_aug,0.0,0.0,0.0,120
+19,orbit_tied_rotation_audit,0.0,0.0,0.0,120

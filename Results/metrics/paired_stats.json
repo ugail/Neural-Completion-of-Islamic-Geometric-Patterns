@@ -1,0 +1,34 @@
+{
+  "orbit_tied_vs_unstructured_free": {
+    "n_patterns": 360,
+    "mean_diff": -0.0012030420583155346,
+    "sd_diff": 0.0780001674929436,
+    "ci95_lo": -0.009278975521981338,
+    "ci95_hi": 0.006898393672458189,
+    "wilcoxon_statistic": 32091.0,
+    "wilcoxon_p": 0.839969560331049,
+    "per_seed_mean_diff": {
+      "7": 0.007151517457386262,
+      "11": -0.00637852875477277,
+      "19": -0.004382114877560097
+    },
+    "equivalence_margin": 0.02,
+    "practically_equivalent": true
+  },
+  "orbit_tied_vs_projection": {
+    "n_patterns": 360,
+    "mean_diff": -0.004185563515595719,
+    "sd_diff": 0.07551370225426592,
+    "ci95_lo": -0.011993134423541737,
+    "ci95_hi": 0.0035044238321035822,
+    "wilcoxon_statistic": 31905.0,
+    "wilcoxon_p": 0.7662072854548312,
+    "per_seed_mean_diff": {
+      "7": -0.0037194828121737125,
+      "11": -0.004383041885638972,
+      "19": -0.0044541658489744744
+    },
+    "equivalence_margin": 0.02,
+    "practically_equivalent": true
+  }
+}

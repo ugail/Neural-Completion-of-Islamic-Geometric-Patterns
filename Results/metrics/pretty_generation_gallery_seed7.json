@@ -1,0 +1,56 @@
+[
+  {
+    "label": "6-fold rosette",
+    "N": 6,
+    "scaffold_type": "anchored",
+    "family_id": 0,
+    "regime_id": 0,
+    "quality": 0.8419703656502745,
+    "sample_id": "pretty_6_0_0_4"
+  },
+  {
+    "label": "8-fold star-cross",
+    "N": 8,
+    "scaffold_type": "anchored",
+    "family_id": 1,
+    "regime_id": 2,
+    "quality": 0.9620966427076769,
+    "sample_id": "pretty_8_1_2_6"
+  },
+  {
+    "label": "10-fold connectors",
+    "N": 10,
+    "scaffold_type": "anchored",
+    "family_id": 3,
+    "regime_id": 1,
+    "quality": 0.9588586771495389,
+    "sample_id": "pretty_10_3_1_1"
+  },
+  {
+    "label": "12-fold nested",
+    "N": 12,
+    "scaffold_type": "anchored",
+    "family_id": 4,
+    "regime_id": 3,
+    "quality": 0.9780615830842567,
+    "sample_id": "pretty_12_4_3_5"
+  },
+  {
+    "label": "minimal border",
+    "N": 8,
+    "scaffold_type": "minimal",
+    "family_id": 2,
+    "regime_id": 3,
+    "quality": 0.9777283164953974,
+    "sample_id": "pretty_8_2_3_4"
+  },
+  {
+    "label": "minimal 10-fold",
+    "N": 10,
+    "scaffold_type": "minimal",
+    "family_id": 0,
+    "regime_id": 1,
+    "quality": 0.9589870419194877,
+    "sample_id": "pretty_10_0_1_5"
+  }
+]

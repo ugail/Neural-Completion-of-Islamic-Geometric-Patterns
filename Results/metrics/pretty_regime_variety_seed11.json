@@ -1,0 +1,86 @@
+[
+  {
+    "row": 0,
+    "N": 8,
+    "family_id": 1,
+    "regime_id": 0,
+    "selected_edges": 104
+  },
+  {
+    "row": 0,
+    "N": 8,
+    "family_id": 1,
+    "regime_id": 1,
+    "selected_edges": 128
+  },
+  {
+    "row": 0,
+    "N": 8,
+    "family_id": 1,
+    "regime_id": 2,
+    "selected_edges": 144
+  },
+  {
+    "row": 0,
+    "N": 8,
+    "family_id": 1,
+    "regime_id": 3,
+    "selected_edges": 152
+  },
+  {
+    "row": 1,
+    "N": 10,
+    "family_id": 3,
+    "regime_id": 0,
+    "selected_edges": 130
+  },
+  {
+    "row": 1,
+    "N": 10,
+    "family_id": 3,
+    "regime_id": 1,
+    "selected_edges": 160
+  },
+  {
+    "row": 1,
+    "N": 10,
+    "family_id": 3,
+    "regime_id": 2,
+    "selected_edges": 180
+  },
+  {
+    "row": 1,
+    "N": 10,
+    "family_id": 3,
+    "regime_id": 3,
+    "selected_edges": 190
+  },
+  {
+    "row": 2,
+    "N": 12,
+    "family_id": 4,
+    "regime_id": 0,
+    "selected_edges": 156
+  },
+  {
+    "row": 2,
+    "N": 12,
+    "family_id": 4,
+    "regime_id": 1,
+    "selected_edges": 192
+  },
+  {
+    "row": 2,
+    "N": 12,
+    "family_id": 4,
+    "regime_id": 2,
+    "selected_edges": 216
+  },
+  {
+    "row": 2,
+    "N": 12,
+    "family_id": 4,
+    "regime_id": 3,
+    "selected_edges": 228
+  }
+]
