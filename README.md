@@ -82,6 +82,7 @@ If you use this implementation or the precomputed results, please cite the paper
 
 > H. Ugail and I. Mehmood, *Knowledge-Constrained Neural Completion of Islamic Geometric Patterns with Symmetry Guarantees*, 2026, Under review.
 >
+> H. Ugail and I. Mehmood, Symmetry-Structured Neural Completion of Islamic Geometric Patterns from Sparse Control Geometry, 	arXiv:2607.02573, 2026. https://doi.org/10.48550/arXiv.2607.02573
 
 ## License
 
